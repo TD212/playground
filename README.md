@@ -1,5 +1,4 @@
 Ding Tao
-(G1,1995,postgraduate)
 # Playground
 try try try
 add one more
